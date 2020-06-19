@@ -1,0 +1,1021 @@
+[
+  {
+     "coord": [114.020514, 22.537233],
+     "concentration":0.01
+  },
+  {
+     "coord": [114.019822, 22.537091],
+     "concentration":0
+  },
+  {
+     "coord": [114.019827, 22.53697],
+     "concentration":0
+  },
+  {
+     "coord": [114.019144, 22.537162],
+     "concentration":0
+  },
+  {
+     "coord": [114.019135, 22.536941],
+     "concentration":0
+  },
+  {
+     "coord": [114.018848, 22.537266],
+     "concentration":0.001
+  },
+  {
+     "coord": [114.018848, 22.537153],
+     "concentration":0.001
+  },
+  {
+     "coord": [114.018704, 22.537279],
+     "concentration":0.002
+  },
+  {
+     "coord": [114.018708, 22.537158],
+     "concentration":0.002
+  },
+  {
+     "coord": [114.018843, 22.536924],
+     "concentration":0
+  },
+  {
+     "coord": [114.018861, 22.536865],
+     "concentration":0
+  },
+  {
+     "coord": [114.01869, 22.536932],
+     "concentration":0
+  },
+  {
+     "coord": [114.018695, 22.536853],
+     "concentration":0
+  },
+  {
+     "coord": [114.017981, 22.536832],
+     "concentration":0.7
+  },
+  {
+     "coord": [114.018183, 22.536836],
+     "concentration":0.6
+  },
+  {
+     "coord": [114.017361, 22.536607],
+     "concentration":0.002
+  },
+  {
+     "coord": [114.020465, 22.536623],
+     "concentration":0.0015
+  },
+  {
+     "coord": [114.017442, 22.534353],
+     "concentration":0.001
+  },
+  {
+     "coord": [114.020519, 22.534458],
+     "concentration":0.001
+  },
+  {
+     "coord": [114.016921, 22.535672],
+     "concentration":0
+  },
+  {
+     "coord": [114.016916, 22.535564],
+     "concentration":0
+  },
+  {
+     "coord": [114.016521, 22.535651],
+     "concentration":0
+  },
+  {
+     "coord": [114.016521, 22.535547],
+     "concentration":0
+  },
+  {
+     "coord": [114.016921, 22.535297],
+     "concentration":0
+  },
+  {
+     "coord": [114.016921, 22.535226],
+     "concentration":0
+  },
+  {
+     "coord": [114.016548, 22.535301],
+     "concentration":0
+  },
+  {
+     "coord": [114.016548, 22.535221],
+     "concentration":0
+  },
+  {
+     "coord": [114.016921, 22.535029],
+     "concentration":0
+  },
+  {
+     "coord": [114.016916, 22.534967],
+     "concentration":0
+  },
+  {
+     "coord": [114.016521, 22.535029],
+     "concentration":0
+  },
+  {
+     "coord": [114.016517, 22.534946],
+     "concentration":0
+  },
+  {
+     "coord": [114.019575, 22.534308],
+     "concentration":0.01
+  },
+  {
+     "coord": [114.019872, 22.534308],
+     "concentration":0.01
+  },
+  {
+     "coord": [114.019589, 22.533928],
+     "concentration":0.01
+  },
+  {
+     "coord": [114.019809, 22.533915],
+     "concentration":0.01
+  },
+  {
+     "coord": [114.01887, 22.534245],
+     "concentration":0
+  },
+  {
+     "coord": [114.01887, 22.533945],
+     "concentration":0
+  },
+  {
+     "coord": [114.019216, 22.534232],
+     "concentration":0
+  },
+  {
+     "coord": [114.019225, 22.533945],
+     "concentration":0
+  },
+  {
+     "coord": [114.018614, 22.534199],
+     "concentration":0
+  },
+  {
+     "coord": [114.01861, 22.533999],
+     "concentration":0.01
+  },
+  {
+     "coord": [114.01883, 22.534182],
+     "concentration":0
+  },
+  {
+     "coord": [114.01883, 22.533995],
+     "concentration":0
+  },
+  {
+     "coord": [114.018062, 22.534241],
+     "concentration":0
+  },
+  {
+     "coord": [114.018057, 22.534141],
+     "concentration":0
+  },
+  {
+     "coord": [114.018412, 22.534237],
+     "concentration":0.001
+  },
+  {
+     "coord": [114.01843, 22.534137],
+     "concentration":0.001
+  },
+  {
+     "coord": [114.017392, 22.53422],
+     "concentration":0.002
+  },
+  {
+     "coord": [114.017392, 22.53412],
+     "concentration":0.002
+  },
+  {
+     "coord": [114.017909, 22.534212],
+     "concentration":0
+  },
+  {
+     "coord": [114.017904, 22.534128],
+     "concentration":0
+  },
+  {
+     "coord": [114.017388, 22.53394],
+     "concentration":0
+  },
+  {
+     "coord": [114.017392, 22.533824],
+     "concentration":0
+  },
+  {
+     "coord": [114.017931, 22.533953],
+     "concentration":0
+  },
+  {
+     "coord": [114.017922, 22.53384],
+     "concentration":0
+  },
+  {
+     "coord": [114.017815, 22.537404],
+     "concentration":0.682
+  },
+  {
+     "coord": [114.0178693, 22.537404],
+     "concentration":0.652
+  },
+  {
+     "coord": [114.0179236, 22.537404],
+     "concentration":0.622
+  },
+  {
+     "coord": [114.0179779, 22.537404],
+     "concentration":0.592
+  },
+  {
+     "coord": [114.0180322, 22.537404],
+     "concentration":0.562
+  },
+  {
+     "coord": [114.0180865, 22.537404],
+     "concentration":0.532
+  },
+  {
+     "coord": [114.0181408, 22.537404],
+     "concentration":0.502
+  },
+  {
+     "coord": [114.0181951, 22.537404],
+     "concentration":0.472
+  },
+  {
+     "coord": [114.0182494, 22.537404],
+     "concentration":0.442
+  },
+  {
+     "coord": [114.018358, 22.537404],
+     "concentration":0.386
+  },
+  {
+     "coord": [114.017815, 22.5373385],
+     "concentration":0.682
+  },
+  {
+     "coord": [114.0178693, 22.5373385],
+     "concentration":0.652
+  },
+  {
+     "coord": [114.0179236, 22.5373385],
+     "concentration":0.622
+  },
+  {
+     "coord": [114.0179779, 22.5373385],
+     "concentration":0.592
+  },
+  {
+     "coord": [114.0180322, 22.5373385],
+     "concentration":0.562
+  },
+  {
+     "coord": [114.0180865, 22.5373385],
+     "concentration":0.532
+  },
+  {
+     "coord": [114.0181408, 22.5373385],
+     "concentration":0.502
+  },
+  {
+     "coord": [114.0181951, 22.5373385],
+     "concentration":0.472
+  },
+  {
+     "coord": [114.0182494, 22.5373385],
+     "concentration":0.442
+  },
+  {
+     "coord": [114.018358, 22.5373385],
+     "concentration":0.386
+  },
+  {
+     "coord": [114.017815, 22.5372722],
+     "concentration":0.682
+  },
+  {
+     "coord": [114.0178693, 22.5372722],
+     "concentration":0.652
+  },
+  {
+     "coord": [114.0179236, 22.5372722],
+     "concentration":0.622
+  },
+  {
+     "coord": [114.0179779, 22.5372722],
+     "concentration":0.592
+  },
+  {
+     "coord": [114.0180322, 22.5372722],
+     "concentration":0.562
+  },
+  {
+     "coord": [114.0180865, 22.5372722],
+     "concentration":0.532
+  },
+  {
+     "coord": [114.0181408, 22.5372722],
+     "concentration":0.502
+  },
+  {
+     "coord": [114.0181951, 22.5372722],
+     "concentration":0.472
+  },
+  {
+     "coord": [114.0182494, 22.5372722],
+     "concentration":0.442
+  },
+  {
+     "coord": [114.018358, 22.5372722],
+     "concentration":0.386
+  },
+  {
+     "coord": [114.017815, 22.5372059],
+     "concentration":0.682
+  },
+  {
+     "coord": [114.0178693, 22.5372059],
+     "concentration":0.652
+  },
+  {
+     "coord": [114.0179236, 22.5372059],
+     "concentration":0.622
+  },
+  {
+     "coord": [114.0179779, 22.5372059],
+     "concentration":0.592
+  },
+  {
+     "coord": [114.0180322, 22.5372059],
+     "concentration":0.562
+  },
+  {
+     "coord": [114.0180865, 22.5372059],
+     "concentration":0.532
+  },
+  {
+     "coord": [114.0181408, 22.5372059],
+     "concentration":0.502
+  },
+  {
+     "coord": [114.0181951, 22.5372059],
+     "concentration":0.472
+  },
+  {
+     "coord": [114.0182494, 22.5372059],
+     "concentration":0.442
+  },
+  {
+     "coord": [114.018358, 22.5372059],
+     "concentration":0.386
+  },
+  {
+     "coord": [114.017815, 22.5371396],
+     "concentration":0.682
+  },
+  {
+     "coord": [114.0178693, 22.5371396],
+     "concentration":0.652
+  },
+  {
+     "coord": [114.0179236, 22.5371396],
+     "concentration":0.622
+  },
+  {
+     "coord": [114.0179779, 22.5371396],
+     "concentration":0.592
+  },
+  {
+     "coord": [114.0180322, 22.5371396],
+     "concentration":0.562
+  },
+  {
+     "coord": [114.0180865, 22.5371396],
+     "concentration":0.532
+  },
+  {
+     "coord": [114.0181408, 22.5371396],
+     "concentration":0.502
+  },
+  {
+     "coord": [114.0181951, 22.5371396],
+     "concentration":0.472
+  },
+  {
+     "coord": [114.0182494, 22.5371396],
+     "concentration":0.442
+  },
+  {
+     "coord": [114.018358, 22.5371396],
+     "concentration":0.386
+  },
+  {
+     "coord": [114.017815, 22.5370733],
+     "concentration":0.682
+  },
+  {
+     "coord": [114.0178693, 22.5370733],
+     "concentration":0.652
+  },
+  {
+     "coord": [114.0179236, 22.5370733],
+     "concentration":0.622
+  },
+  {
+     "coord": [114.0179779, 22.5370733],
+     "concentration":0.592
+  },
+  {
+     "coord": [114.0180322, 22.5370733],
+     "concentration":0.562
+  },
+  {
+     "coord": [114.0180865, 22.5370733],
+     "concentration":0.532
+  },
+  {
+     "coord": [114.0181408, 22.5370733],
+     "concentration":0.502
+  },
+  {
+     "coord": [114.0181951, 22.5370733],
+     "concentration":0.472
+  },
+  {
+     "coord": [114.0182494, 22.5370733],
+     "concentration":0.442
+  },
+  {
+     "coord": [114.018358, 22.5370733],
+     "concentration":0.386
+  },
+  {
+     "coord": [114.017815, 22.537007],
+     "concentration":0.682
+  },
+  {
+     "coord": [114.0178693, 22.537007],
+     "concentration":0.652
+  },
+  {
+     "coord": [114.0179236, 22.537007],
+     "concentration":0.622
+  },
+  {
+     "coord": [114.0179779, 22.537007],
+     "concentration":0.592
+  },
+  {
+     "coord": [114.0180322, 22.537007],
+     "concentration":0.562
+  },
+  {
+     "coord": [114.0180865, 22.537007],
+     "concentration":0.532
+  },
+  {
+     "coord": [114.0181408, 22.537007],
+     "concentration":0.502
+  },
+  {
+     "coord": [114.0181951, 22.537007],
+     "concentration":0.472
+  },
+  {
+     "coord": [114.0182494, 22.537007],
+     "concentration":0.442
+  },
+  {
+     "coord": [114.018358, 22.537007],
+     "concentration":0.386
+  },
+  {
+     "coord": [114.017815, 22.5369407],
+     "concentration":0.682
+  },
+  {
+     "coord": [114.0178693, 22.5369407],
+     "concentration":0.652
+  },
+  {
+     "coord": [114.0179236, 22.5369407],
+     "concentration":0.622
+  },
+  {
+     "coord": [114.0179779, 22.5369407],
+     "concentration":0.592
+  },
+  {
+     "coord": [114.0180322, 22.5369407],
+     "concentration":0.562
+  },
+  {
+     "coord": [114.0180865, 22.5369407],
+     "concentration":0.532
+  },
+  {
+     "coord": [114.0181408, 22.5369407],
+     "concentration":0.502
+  },
+  {
+     "coord": [114.0181951, 22.5369407],
+     "concentration":0.472
+  },
+  {
+     "coord": [114.0182494, 22.5369407],
+     "concentration":0.442
+  },
+  {
+     "coord": [114.018358, 22.5369407],
+     "concentration":0.386
+  },
+  {
+     "coord": [114.017815, 22.5368744],
+     "concentration":0.682
+  },
+  {
+     "coord": [114.0178693, 22.5368744],
+     "concentration":0.652
+  },
+  {
+     "coord": [114.0179236, 22.5368744],
+     "concentration":0.622
+  },
+  {
+     "coord": [114.0179779, 22.5368744],
+     "concentration":0.592
+  },
+  {
+     "coord": [114.0180322, 22.5368744],
+     "concentration":0.562
+  },
+  {
+     "coord": [114.0180865, 22.5368744],
+     "concentration":0.532
+  },
+  {
+     "coord": [114.0181408, 22.5368744],
+     "concentration":0.502
+  },
+  {
+     "coord": [114.0181951, 22.5368744],
+     "concentration":0.472
+  },
+  {
+     "coord": [114.0182494, 22.5368744],
+     "concentration":0.442
+  },
+  {
+     "coord": [114.018358, 22.5368744],
+     "concentration":0.386
+  },
+  {
+     "coord": [114.017815, 22.536749],
+     "concentration":0.682
+  },
+  {
+     "coord": [114.0178693, 22.536749],
+     "concentration":0.652
+  },
+  {
+     "coord": [114.0179236, 22.536749],
+     "concentration":0.622
+  },
+  {
+     "coord": [114.0179779, 22.536749],
+     "concentration":0.592
+  },
+  {
+     "coord": [114.0180322, 22.536749],
+     "concentration":0.562
+  },
+  {
+     "coord": [114.0180865, 22.536749],
+     "concentration":0.532
+  },
+  {
+     "coord": [114.0181408, 22.536749],
+     "concentration":0.502
+  },
+  {
+     "coord": [114.0181951, 22.536749],
+     "concentration":0.472
+  },
+  {
+     "coord": [114.0182494, 22.536749],
+     "concentration":0.442
+  },
+  {
+     "coord": [114.018358, 22.536749],
+     "concentration":0.386
+  },
+  {
+     "coord": [114.019387, 22.534316],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0194543, 22.534316],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195216, 22.534316],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195889, 22.534316],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0196562, 22.534316],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197235, 22.534316],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197908, 22.534316],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0198581, 22.534316],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0199254, 22.534316],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.02006, 22.534316],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.019387, 22.5342764],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0194543, 22.5342764],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195216, 22.5342764],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195889, 22.5342764],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0196562, 22.5342764],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197235, 22.5342764],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197908, 22.5342764],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0198581, 22.5342764],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0199254, 22.5342764],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.02006, 22.5342764],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.019387, 22.5342368],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0194543, 22.5342368],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195216, 22.5342368],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195889, 22.5342368],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0196562, 22.5342368],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197235, 22.5342368],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197908, 22.5342368],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0198581, 22.5342368],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0199254, 22.5342368],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.02006, 22.5342368],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.019387, 22.5341972],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0194543, 22.5341972],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195216, 22.5341972],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195889, 22.5341972],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0196562, 22.5341972],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197235, 22.5341972],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197908, 22.5341972],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0198581, 22.5341972],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0199254, 22.5341972],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.02006, 22.5341972],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.019387, 22.5341576],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0194543, 22.5341576],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195216, 22.5341576],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195889, 22.5341576],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0196562, 22.5341576],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197235, 22.5341576],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197908, 22.5341576],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0198581, 22.5341576],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0199254, 22.5341576],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.02006, 22.5341576],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.019387, 22.534118],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0194543, 22.534118],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195216, 22.534118],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195889, 22.534118],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0196562, 22.534118],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197235, 22.534118],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197908, 22.534118],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0198581, 22.534118],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0199254, 22.534118],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.02006, 22.534118],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.019387, 22.5340784],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0194543, 22.5340784],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195216, 22.5340784],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195889, 22.5340784],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0196562, 22.5340784],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197235, 22.5340784],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197908, 22.5340784],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0198581, 22.5340784],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0199254, 22.5340784],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.02006, 22.5340784],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.019387, 22.5340388],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0194543, 22.5340388],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195216, 22.5340388],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195889, 22.5340388],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0196562, 22.5340388],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197235, 22.5340388],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197908, 22.5340388],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0198581, 22.5340388],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0199254, 22.5340388],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.02006, 22.5340388],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.019387, 22.5339992],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0194543, 22.5339992],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195216, 22.5339992],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195889, 22.5339992],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0196562, 22.5339992],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197235, 22.5339992],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197908, 22.5339992],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0198581, 22.5339992],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0199254, 22.5339992],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.02006, 22.5339992],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.019387, 22.53392],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0194543, 22.53392],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195216, 22.53392],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0195889, 22.53392],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0196562, 22.53392],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197235, 22.53392],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0197908, 22.53392],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0198581, 22.53392],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.0199254, 22.53392],
+     "concentration":0.216
+  },
+  {
+     "coord": [114.02006, 22.53392],
+     "concentration":0.216
+  }]]
